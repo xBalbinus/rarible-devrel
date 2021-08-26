@@ -21,4 +21,4 @@ API's for MintGate are available for token gating to integrate into any project.
 Full documentation and instructions can be found here:
 [MintGate Docs](https://mintgate.gitbook.io/mintgate-docs/)
 
-Currently, the MintGate team is working on API wrappers that tie-in to the Rarible Protocol endpoints and future okans to create a subgraph to reach full decentralization.
+Currently, the MintGate team is working on API wrappers that tie-in to the Rarible Protocol endpoints and future projections are to create a subgraph to reach full decentralization.
