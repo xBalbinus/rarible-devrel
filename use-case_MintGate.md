@@ -1,13 +1,5 @@
 # MintGate
-**Overview of MintGate & Discovery of Rarible Protocol:**
-
-MintGate was born from the first Gitcoin Kernel launchpad.
-
-MintGate realized that many social tokens were being minted at the time, but they had limited utility. As a result, they created a general purpose solution to add utility to any token; access through ownership, or token gating exclusive videos, audio, or documents so only token holders can access it.
-
-As NFTs grew in popularity, MintGate recognized that most NFTs hold subjective value but no instrinsic, objective value. In using the same technology applied to social tokens, they are able to add utility, or functional value, to any NFT by allowing creators to gate content only accessible by holders of their NFTs.
-
-Creators who continually produce high quality content can expect access to that content to increase in value as early buyers are incentivized to promote them to see their NFTs appreciate in value, thus growing the creators branding awareness. 
+**TLDR:** 
 
 As MintGate started researching NFT royalties and building out a marketplace to trade NFTs with unlockable content, they learned that Rarible was developing an open protocol and DAO that provided all the technology necessary to bootstrap this. Instead of reinventing the wheel, MintGate decided to join the DAO and start building their marketplace on the protocol to provide the best experience for their growing community of creators and influencers. 
 
