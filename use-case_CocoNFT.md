@@ -2,9 +2,7 @@
 **TLDR:**
 
 CoCo NFT helps new creators get into the NFT space by building an onRamp that makes it easy to manage your wallet via social media logins. 
-
 CoCoNFT uses the following Smart Contract functionalities:  lazy minting, exchange, and indexer.
-
 CoCoNFT uses lazy minting so that the creators dont have to pay for minting making the process easy for newbies to crypto. We are planning on using the ability to support checkout right on our website via the Rarible Protocol Exchange and the indexer I believe to show a user's Lazy Minted NFTs.
 
 **How CocoNFT would have changed things knowing what they know now:**
