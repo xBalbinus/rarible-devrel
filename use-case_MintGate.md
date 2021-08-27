@@ -7,7 +7,7 @@ The usages of the Rarible Protocol within MintGate are:
 Lazy Minting, Exchange, and Indexer
 > We forked the 1155 contracts from Rarible to create a custom contract to mint from that has all the same functionality to abide by the royalties.
 We are using that contract and the exchange contracts + indexer that Rarible provides through the APIs.
-The steps for how we forked the contracts are listed, from the starter app and Eugene's sample project for creating signed order.
+The steps for how we forked the contracts are listed, from the [starter app](https://github.com/austintgriffith/scaffold-eth/tree/rarible-starter-app) and [Eugene's sample project](https://github.com/rarible/protocol-example) for creating signed order.
 the indexer is required for all of this in order to pull sale orders created.
 
 https://api-reference.rarible.com/#operation/upsertOrder
