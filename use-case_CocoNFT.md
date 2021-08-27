@@ -1,5 +1,6 @@
 # CoCoNFT
 **TLDR:**
+
 CoCo NFT helps new creators get into the NFT space by building an onRamp that makes it easy to manage your wallet via social media logins. 
 
 CoCoNFT uses the following Smart Contract functionalities:  lazy minting, exchange, and indexer.
