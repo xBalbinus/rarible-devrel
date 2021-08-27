@@ -1,7 +1,16 @@
 # MintGate
 **TLDR:** 
 
-As MintGate started researching NFT royalties and building out a marketplace to trade NFTs with unlockable content, they learned that Rarible was developing an open protocol and DAO that provided all the technology necessary to bootstrap this. Instead of reinventing the wheel, MintGate decided to join the DAO and start building their marketplace on the protocol to provide the best experience for their growing community of creators and influencers. 
+MintGate decided to integrate Rarible protocol by building their marketplace on the protocol to provide the best experience for their growing community of creators and influencers.
+
+The usages of the Rarible Protocol within MintGate are:
+Lazy Minting, Exchange, and Indexer
+> We forked the 1155 contracts from Rarible to create a custom contract to mint from that has all the same functionality to abide by the royalties.
+We are using that contract and the exchange contracts + indexer that Rarible provides through the APIs.
+The steps for how we forked the contracts are listed, from the starter app and Eugene's sample project for creating signed order.
+the indexer is required for all of this in order to pull sale orders created.
+
+https://api-reference.rarible.com/#operation/upsertOrder
 
 **How MintGate would have changed things knowing what they know now:**
 
