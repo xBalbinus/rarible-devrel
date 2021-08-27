@@ -30,8 +30,7 @@ Also, they hope Rarible will be able to complete an SDK alternative to the APIs 
 5. Test some functions like `name()` or `symbol()` in your terminal to ensure it's working
 6. Start using Rarible's APIs for lazy minting and order creation to build out your marketplace: https://api-reference.rarible.com/#operation/upsertOrder
 
-APIs for MintGate for token gating are also available. 
-
+APIs for MintGate for token gating are available.
 Full documentation and instructions can be found here:
 [MintGate Docs](https://mintgate.gitbook.io/mintgate-docs/)
 
