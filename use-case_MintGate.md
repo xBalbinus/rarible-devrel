@@ -14,7 +14,7 @@ the indexer is required for all of this in order to pull sale orders created.
 
 One thing Mintgate would have done differently based on experience is to prioritize the Rarible marketplace order creation features sooner instead of focusing on lazy minting alone. 
 
-Mintgate hopes Rarible will be able to complete an SDK alternative to the APIs because they fail from time to time, causing confusion for users and bugs when there is no sale order or lazy mint created. Using a SDK would hopefully prove more reliable.  
+Mintgate hopes Rarible will be able to complete an SDK alternative to the API's because they fail from time to time, causing confusion for users and bugs when there is no sale order or lazy mint created. Using a SDK would hopefully prove more reliable.  
 
 **Step by step instructions for how MintGate started building on Rarible protocol:**
 
