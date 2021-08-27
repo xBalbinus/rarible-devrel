@@ -31,5 +31,3 @@ Also, they hope Rarible will be able to complete an SDK alternative to the APIs 
 APIs for MintGate for token gating are available.
 Full documentation and instructions can be found here:
 [MintGate Docs](https://mintgate.gitbook.io/mintgate-docs/)
-
-Currently, the MintGate team is working on API wrappers that tie-in to the Rarible Protocol endpoints and future projections are to create a subgraph to reach full decentralization.
