@@ -9,7 +9,7 @@ CoCoNFT uses lazy minting so that the creators dont have to pay for minting maki
 **How CocoNFT would have changed things knowing what they know now:**
 
 > On the Protocol we developed code to handle many features that we needed Rarible Protocol to do. Instead of waiting for the protocol updates.
-As we were building found alot of frameworks we would have used something like Starter App to jumpstart our development process.
+As we were building found alot of frameworks we would have used something like [starter app](https://github.com/austintgriffith/scaffold-eth/tree/rarible-starter-app) to jumpstart our development process.
 
 In regards to the database side CocoNFT advises to understand how you structure your database. 
 
