@@ -16,19 +16,19 @@ In regards to the database side CocoNFT advises to understand how you structure 
 **Step by step instructions for teams to do the same:**
 Always test on testnet before deploying to mainnet. Ropsten recommended for using Rarible APIs.
 
-    - Fork Rarible Protocol: https://github.com/rarible/protocol-contracts (Best to explore and get familiar)
+- Fork Rarible Protocol: https://github.com/rarible/protocol-contracts (Best to explore and get familiar)
 
-    - Identify which NFT token type you will be using, 721 or 1155, and make any modifications necessary in the tokens folder: https://github.com/rarible/protocol-contracts/tree/master/tokens
+- Identify which NFT token type you will be using, 721 or 1155, and make any modifications necessary in the tokens folder: https://github.com/rarible/protocol-contracts/tree/master/tokens
 
-    - Update the migrations files to pass in whatever parameters you want for the contract you plan to deploy: https://github.com/rarible/protocol-contracts/tree/master/tokens/migrations
+- Update the migrations files to pass in whatever parameters you want for the contract you plan to deploy: https://github.com/rarible/protocol-contracts/tree/master/tokens/migrations
 
-    *Note: Only migration files 1-4 are necessary for initial deployment, and only #2 for 721 and #3 for 1155 if you don't want to deploy contracts for both
+*Note: Only migration files 1-4 are necessary for initial deployment, and only #2 for 721 and #3 for 1155 if you don't want to deploy contracts for both
 
-    Take note of the addresses for the contracts. These are upgradeable contracts, so you will be directing calls to the proxy address.*
+Take note of the addresses for the contracts. These are upgradeable contracts, so you will be directing calls to the proxy address.*
 
-    - Test some functions like name() or symbol() in your terminal to ensure it's working
+- Test some functions like name() or symbol() in your terminal to ensure it's working
 
-    - Start using Rarible's APIs for lazy minting and order creation to build out your marketplace: https://api-reference.rarible.com/#operation/upsertOrder
+- Start using Rarible's APIs for lazy minting and order creation to build out your marketplace: https://api-reference.rarible.com/#operation/upsertOrder
 
 
 Working on API and/or SDK is in the works.
