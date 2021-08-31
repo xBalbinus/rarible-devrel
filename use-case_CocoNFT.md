@@ -28,4 +28,4 @@ In regards to the database side CocoNFT advises to understand how you structure 
 
 
 
-Working on API and/or SDK is in the works.
+API and/or SDK is in the works for CocoNFT.
